@@ -1,0 +1,8 @@
+{
+	install git bush
+	open GitHub accaunt
+	install Postman, DBeaver, Charles Proxy, Fiddler
+	start learning Java Script, Python, SQL
+	create Linkedin and start keeping it
+	pump the soft skills
+}
